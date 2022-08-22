@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 // ---API request
 import { getTrending } from '../services/api';
 // ---Components
-import { PageHeading } from '../components/PageHeading/PageHeadingg';
+import { PageHeading } from '../components/PageHeading/PageHeading';
 import ScrollTop from 'components/ScrollTop/ScrollTop';
 import { Container } from '../components/HomeGallery/HomeGallery.styled';
 import HomeGallery from 'components/HomeGallery/HomeGallery';
